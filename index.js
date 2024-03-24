@@ -16,7 +16,7 @@ function acceptPrompt(){
             type:"list",
             message:"enter logo text.",
             name:"textcolor",
-            choices:["Red","Green","Purple","Blue","Grey","Pink"]
+            choices:["Red","Green","Purple","Blue","Grey","Pink","Orange","Brown","Black","White"]
         },
         {
             type:"list",
@@ -28,7 +28,7 @@ function acceptPrompt(){
             type:"list",
             message:"select shape color",
             name:"shapecolor",
-            choices:["Red","Green","Purple","Blue","Grey","Pink"]
+            choices:["Red","Green","Purple","Blue","Grey","Pink","Orange","Brown","Black","White"]
         },
     ]).then(response => {
         switch(response.shape){
