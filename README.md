@@ -18,10 +18,6 @@ Have you built something, such as a website, and you need something to help it b
 This logo maker will be of assistance to you, 
 even if you have no specific purpose for generating these logos.
 
-```md
-![alt text](assets/images/screenshot.png)
-```
-
 ## License
 
 None
@@ -30,4 +26,4 @@ please check [here](https://choosealicense.com/licenses/)
 
 ## Link to Video
 
-()
+(chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/19c79882-7687-4568-y003-5f5b26e45310)
