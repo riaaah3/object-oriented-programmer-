@@ -26,4 +26,4 @@ please check [here](https://choosealicense.com/licenses/)
 
 ## Link to Video
 
-(chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/19c79882-7687-4568-y003-5f5b26e45310)
+(https://drive.google.com/file/d/1fXRkX8PqHDmtbjRBipRjAqqa7ou3mCkT/view)
